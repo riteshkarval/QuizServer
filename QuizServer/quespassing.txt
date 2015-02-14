@@ -1,0 +1,61 @@
+m1. A program that can copy itself and infect a computer without the permission or knowledge of the owner is called what?
+Virus 
+
+m2. Which of these is a correct format of IP address?
+192.168.1.1 
+
+m3. Which was the first web browser?
+WorldWideWeb 
+
+m4. It is a small piece of text stored on a user's computer by a web browser for maintaining the state. What we are talking about?
+Cookie 
+
+m5. Which of these is a correct format of Email address?
+contact@website.info 
+
+m6. What does HTTP stands for?
+Hypertext Transfer Protocol 
+
+m7. In computers ,what is the smallest and basic unit of information storage?
+Bit 
+
+m8. Which company is nicknamed "Big Blue"?
+IBM 
+
+m9. What is JVM?
+Java Virtual Machine 
+
+m10. What is Windows XP?
+Operating System 
+
+e11. Which of the following is responsible for the management and coordination of activities and the sharing of the resources of the computer?
+Operating System 
+
+e12. WAV file format is associated with what type of files?
+Sound 
+
+e13. What is a Compiler?
+A System Software 
+
+h14. Machine language is also known as
+Low level language 
+
+h15. What does FTP stand for?
+File Transfer Protocol
+
+h16. Which company acquired Sun Microsystems on January 27, 2010?
+Oracle Corporation 
+
+h17. Which was the first ever web server software?
+CERN httpd 
+
+
+h18. What does BCC means in EMail?
+Blind Carbon Copy 
+
+m19. MS-Word is an example of
+Application Software
+
+m20. Who is known as the father of the Java programming language?
+James Gosling 
+

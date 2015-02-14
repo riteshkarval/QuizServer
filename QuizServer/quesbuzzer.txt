@@ -1,0 +1,139 @@
+m1. A program that can copy itself and infect a computer without the permission or knowledge of the owner is called what?
+1. Floppy 
+2. Virus 
+3. Java 
+4. Monitor
+2
+
+m2. Which of these is a correct format of IP address?
+1. 192.168.1.1 
+2. 192.168.111.1111 
+3. 192.168.900.1 
+4. 192.900.168.1
+1
+
+m3. Which was the first web browser?
+1. WorldWideWeb 
+2. Netscape Navigator 
+3. Internet Explorer 
+4. Safari
+1
+
+m4. It is a small piece of text stored on a user's computer by a web browser for maintaining the state. What we are talking about?
+1. Application 
+2. Session 
+3. Cookie 
+4. QueryString
+3
+
+m5. Which of these is a correct format of Email address?
+1. contact.website.info 
+2. contactwebsite.info 
+3. contact@website.info 
+4. contact@website@info
+3
+
+m6. What does HTTP stands for?
+1. Hypertext Transfer Protocol 
+2. Hypertext Transfer Plotter 
+3. Head Tail Transfer Plot 
+4. Head Tail Transfer Protocol
+1
+
+m7. In computers ,what is the smallest and basic unit of information storage?
+1. Bit 
+2. Byte 
+3. Newton 
+4. Mega byte
+1
+
+m8. Which company is nicknamed "Big Blue"?
+1. TCS 
+2. IBM 
+3. Microsoft 
+4. Satyam
+2
+
+m9. What is JVM?
+1. Jumber Verbose Mechanics 
+2. A part of IIS 
+3. Java Virtual Machine 
+4. .Net Framework
+3
+
+m10. What is Windows XP?
+1. Operating System 
+2. Storage Device 
+3. Processor 
+4. Output Device
+1
+
+e11. Which of the following is responsible for the management and coordination of activities and the sharing of the resources of the computer?
+1. Application Software 
+2. Motherboard 
+3. Operating System 
+4. RAM
+3
+
+e12. WAV file format is associated with what type of files?
+1. Video 
+2. Sound 
+3. Image 
+4. Word Document
+2
+
+e13. What is a Compiler?
+1. An Application software 
+2. A Process 
+3. A System Software 
+4. A Document
+3
+
+h14. Machine language is also known as
+1. Low level language 
+2. Assembly language 
+3. High level language 
+4. Source code
+1
+
+h15. What does FTP stand for?
+1. File Transfer Protocol 
+2. File Transfer Program 
+3. File Thread Protocol 
+4. File Thread Program
+1
+
+h16. Which company acquired Sun Microsystems on January 27, 2010?
+1. Apple Inc. 
+2. Microsoft 
+3. Oracle Corporation 
+4. IBM
+3
+
+h17. Which was the first ever web server software?
+1. GWS 
+2. IIS 5.0 
+3. CERN httpd 
+4. nginx
+3
+
+h18. What does BCC means in EMail?
+1. Black Carbon Copy 
+2. Blind Carbon Copy 
+3. Business Computer Center 
+4. Business Computer Card
+2
+
+m19. MS-Word is an example of
+1. Application Software 
+2. System Software 
+3. Operating System 
+4. Scanner
+1
+
+m20. Who is known as the father of the Java programming language?
+1. Bill Board 
+2. James Gosling 
+3. Jame Smith 
+4. Sabeer Bhatia
+2
